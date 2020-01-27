@@ -10,6 +10,11 @@ You can find here:
 - Notebooks (Python) 
 - Explanatory reports
 
+Projects that I've done:
+- Capstone
+- Kaggle competitions
+- Datacamp projects
+
 
 Feel free to reach out to me via [Linkedin](https://www.linkedin.com/in/renatevankempen/) if you have any queries.
 Or leave a comment here! 
