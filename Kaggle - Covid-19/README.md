@@ -24,7 +24,10 @@ The licenses for each dataset can be found in the all _ sources _ metadata csv f
 
 This dataset was created by the Allen Institute for AI in partnership with the Chan Zuckerberg Initiative, Georgetown University’s Center for Security and Emerging Technology, Microsoft Research, and the National Library of Medicine - National Institutes of Health, in coordination with The White House Office of Science and Technology Policy.
 
-Feel free to reach out to me via [Linkedin](https://www.linkedin.com/in/renatevankempen/) if you have any queries or comments.
+## Comments or questions
+
+Feel free to reach out to me via [Linkedin](https://www.linkedin.com/in/renatevankempen/) if you have any queries.
+
 Or leave a comment here! 
 
 Kind regards, 
