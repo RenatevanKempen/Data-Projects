@@ -28,7 +28,7 @@ The steps taken in the process were:
 5.	Modeling – trying different models to get the best
 
 ## Model
-After trying different models, I’ve found the Random Forest model to work best as a predictor for evictions per county. 
+After trying different models, I’ve found the Random Forest model to work best as a predictor for evictions per county. This gave the best R^2 score (89,9%).  
 
 ## Key Insights
 The key insights gained by performing this Capstone project about predicting evictions were:
