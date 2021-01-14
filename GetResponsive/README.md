@@ -1,7 +1,7 @@
 ![BAIME banner](https://user-images.githubusercontent.com/47600826/89530907-9b3f6480-d7ef-11ea-9849-27617f6025cf.png)
 
 # Sentiment Analyse (GetResponsLive #40)
-In de [GetResponsLive van 14 januari 2021] leg ik uit hoe je Sentiment Analyse kunt toepassen in Power BI met behulp van Python. 
+In de [GetResponsLive van 14 januari 2021](https://youtu.be/a8pd8jvTBks) leg ik uit hoe je Sentiment Analyse kunt toepassen in Power BI met behulp van Python. 
 
 In deze repository vinden jullie: 
 
