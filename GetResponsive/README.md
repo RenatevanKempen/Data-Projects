@@ -7,6 +7,7 @@ In deze repository vinden jullie:
 
 - De python codes voor Power BI (zowel origineel als ook met de Google Translate API)
 - De python code voor het testen van de analyse tool
+- Een voorbeeld bestand in Power BI met wat voorbeeld zinnen
 
 Bonus materiaal, op verzoek: 
 
