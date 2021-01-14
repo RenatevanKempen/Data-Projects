@@ -9,6 +9,14 @@ In deze repository vinden jullie:
 - De python code voor het testen van de analyse tool
 - Een voorbeeld bestand in Power BI met wat voorbeeld zinnen
 
+Tip: 
+Bij het inladen van NLTK, zorg dat je het 'path' zet op C:\nltk-data (ook in de environment variables)
+
+En dan kun je via python het volgende invoeren:
+- import nltk
+- nltk_download()
+Dit opent een nieuw venster. Hier kun je alle pakketten kiezen die je wilt downloaden. 
+
 Bonus materiaal, op verzoek: 
 
 - [Videolink naar de Machine Learning Kubus oplossing door Daizyu Watanabe](https://www.youtube.com/watch?v=okJ4DMuXRRs)
