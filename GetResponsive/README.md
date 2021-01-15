@@ -31,5 +31,8 @@ En mocht je meer willen leren over Python in combinatie met Power BI, volg dan d
 ![logo predicting](https://media-exp1.licdn.com/dms/image/C4D22AQEG3nt0XMRHZQ/feedshare-shrink_1280-alternative/0/1602238221108?e=1613606400&v=beta&t=GN_fgBdR6r2_-9Uh_LHfVAcJeoJ_UFBtu6ad0S7B-nM)
 
 
+
+
 Hartelijke groet, 
+
 Renate van Kempen
