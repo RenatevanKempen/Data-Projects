@@ -26,6 +26,12 @@ Dit opent een nieuw venster. Hier kun je alle pakketten kiezen die je wilt downl
 
 Mochten jullie nog meer vragen hebben, laat het gerust weten via [mail](renate@baime.nl)
 
+
+Hartelijke groet, 
+
+Renate van Kempen
+
+
 En mocht je meer willen leren over Python in combinatie met Power BI, volg dan de cursus ['Predicting with Power BI'](https://get-responsive.com/trainingen/)
 
 ![logo predicting](https://media-exp1.licdn.com/dms/image/C4D22AQEG3nt0XMRHZQ/feedshare-shrink_1280-alternative/0/1602238221108?e=1613606400&v=beta&t=GN_fgBdR6r2_-9Uh_LHfVAcJeoJ_UFBtu6ad0S7B-nM)
