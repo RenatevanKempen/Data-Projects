@@ -39,6 +39,3 @@ En mocht je meer willen leren over Python in combinatie met Power BI, volg dan d
 
 
 
-Hartelijke groet, 
-
-Renate van Kempen
